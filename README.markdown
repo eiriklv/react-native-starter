@@ -3,7 +3,7 @@
 
 ###Getting Started
 
-- Install React Native globally - `npm install react-native -g`
+- Install React Native following the instructions detailed here [https://facebook.github.io/react-native/docs/getting-started.html#content](https://facebook.github.io/react-native/docs/getting-started.html#content)
 
 - Clone this repo and then run `npm install`
 
