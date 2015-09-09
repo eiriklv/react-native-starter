@@ -16,3 +16,5 @@
 - Run `webpack` in the root project directory to watch for changes
 
 > Note: Barcode scanner doesn't work on the simulator. In order to run from your device follow the instructions inside `/iOS/NativeStarter/AppDelegate.m`
+
+> Note: This app hits the API directly as opposed to using the `walmart` module because of a conflict with the internal implementation of fetch in `react-native`. This is subject to change pending an update to the `walmart` module to remove the conflict.
