@@ -13,7 +13,7 @@
 
 - Inside of XCode, run the project.
 
-- Run `webpack` in the root project directory to watch for changes
+- Run `npm run webpack` in the root project directory to watch for changes
 
 > Note: Barcode scanner doesn't work on the simulator. In order to run from your device follow the instructions inside `/iOS/NativeStarter/AppDelegate.m`
 
